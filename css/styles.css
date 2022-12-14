@@ -41,4 +41,9 @@ body{
 
 #logo{
     max-width: 50px;
+#footer{
+    text-align: center;
+    background-color: beige;
+    font-size: 18px;
+    padding: 18px;
 }

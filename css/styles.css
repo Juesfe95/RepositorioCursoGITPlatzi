@@ -31,3 +31,10 @@ body{
     font-weight: bold;
     font-size: 0.8em;
 }
+
+#footer{
+    text-align: center;
+    background-color: beige;
+    font-size: 18px;
+    padding: 18px;
+}
